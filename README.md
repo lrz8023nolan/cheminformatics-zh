@@ -2,7 +2,7 @@
 
 > 一份写给中文使用者的化学信息学实践指南：从分子表示、标准化、指纹与描述符，到相似性搜索与特征工程 pipeline。
 
-**简体中文** | [English](./docs/en/)（筹备中）
+**简体中文** | [English](./docs/en/)（精选版：原理段 + 第 14 章）
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/Docs-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](./LICENSE-CODE)
@@ -85,9 +85,11 @@ print(mol.GetNumAtoms())  # 3
 
 ## 当前进度
 
-**第一、二部分与第 14 章均已就绪**（00–13、14、附录 B）。
+**中文版（00–13、14、附录 B）与英文精选版均已就绪。**
 
-待补：附录 A 术语中英对照表；英文精选版（范围见 [docs/en/](./docs/en/)）。若你希望优先看到某一部分，欢迎开 issue 说明。
+英文版不是全量翻译，只收录原理段与第 14 章；第 02、12 章属纯操作内容，未收录——原因见 [docs/en/](./docs/en/)。
+
+待补：附录 A 术语中英对照表。若你希望优先看到某一部分，欢迎开 issue 说明。
 
 ## 贡献
 
